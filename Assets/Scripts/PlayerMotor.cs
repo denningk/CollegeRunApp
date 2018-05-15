@@ -7,7 +7,7 @@ public class PlayerMotor : MonoBehaviour
 
     private CharacterController controller;
 
-    private float speed = 50.0f;
+    private float speed = 500.0f;
 
     // Use this for initialization
     void Start()
