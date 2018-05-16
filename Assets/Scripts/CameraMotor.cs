@@ -36,7 +36,7 @@ public class CameraMotor : MonoBehaviour {
             // Animation at the start of the game
             transform.position = Vector3.Lerp(moveVector + animationOffset, moveVector, transition);
             transition += Time.deltaTime / animationDuration;
-            transform.LookAt(lookAt.position - (Vector3.up * 5));
+            // transform.LookAt(lookAt.position - (Vector3.up * 5));
         }
 
 	}
