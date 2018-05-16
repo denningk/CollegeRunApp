@@ -659,12 +659,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: Template_3D
-  organizationId: 
+  cloudProjectId: 3666fd66-e481-4856-b8b2-a33d9f0b45a8
+  projectName: CollegeRunApp
+  organizationId: denningk
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

@@ -12,7 +12,7 @@ public class PlayerMotor : MonoBehaviour
     private float verticalVelocity = 0.0f;
     private float gravity = 750.0f;
 
-    private float animationDuration = 3.0f;
+    private float animationDuration = 6.0f;
 
     // Use this for initialization
     void Start()
@@ -26,8 +26,8 @@ public class PlayerMotor : MonoBehaviour
     {
         if (Time.timeSinceLevelLoad < animationDuration)
         {
-            anim.Play("Running");
-            controller.Move(Vector3.forward * speed * Time.deltaTime);
+            anim.Play("Idle");
+            // controller.Move(Vector3.forward * speed * Time.deltaTime);
             return;
         }
         anim.Play("Running");

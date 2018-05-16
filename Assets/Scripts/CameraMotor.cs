@@ -11,6 +11,8 @@ public class CameraMotor : MonoBehaviour {
     private float transition = 0.0f;
     private float animationDuration = 3.0f;
     private Vector3 animationOffset = new Vector3(0, 300, 1500);
+    private Vector3 startRun = new Vector3(0, 269, -1071);
+    // private Vector3 beginningAnimation = T
 
 	// Use this for initialization
 	void Start () {
@@ -36,7 +38,7 @@ public class CameraMotor : MonoBehaviour {
             // Animation at the start of the game
             transform.position = Vector3.Lerp(moveVector + animationOffset, moveVector, transition);
             transition += Time.deltaTime / animationDuration;
-            // transform.LookAt(lookAt.position - (Vector3.up * 5));
+            transform.LookAt(lookAt.position - (Vector3.up * 5));
         }
 
 	}
