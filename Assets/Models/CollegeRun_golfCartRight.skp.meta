@@ -1,0 +1,1277 @@
+fileFormatVersion: 2
+guid: f1aca7656fad27a40bf38711ee0793b2
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f02000010020000110200001202000013020000140200001502000016020000
+  assetHash:
+    serializedVersion: 2
+    Hash: bfc35a0ada8b6e009737c4454aa3bee8
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.8719106, y: 7.0442824, z: -10.872883}
+      lookAt: {x: 6.2408476, y: 1.769684, z: -0.88556814}
+      up: {x: 0.23914695, y: 0.9252754, z: 0.2944049}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1/2 bolt head
+    100002: 1/2 bolt head 1
+    100004: 1/2 bolt head 2
+    100006: 1/2 bolt head 3
+    100008: 1/2 bolt head 4
+    100010: 1/2 bolt head 5
+    100012: 1/2 bolt head 6
+    100014: 1/2 bolt head 7
+    100016: 1/2 bolt head 8
+    100018: 1/2 bolt head 9
+    100020: 1/2 bolt nut
+    100022: 1/2 bolt nut 1
+    100024: 1/2 bolt nut 2
+    100026: 1/2 bolt nut 3
+    100028: 1/2 bolt nut#1
+    100030: 1/2 bolt nut#1 1
+    100032: 1/2 bolt nut#1 2
+    100034: 1/2 bolt nut#1 3
+    100036: 'BAT 519         '
+    100038: battery tray#1
+    100040: battery tray#1 1
+    100042: battery#1
+    100044: battery#1 1
+    100046: battery#1 2
+    100048: battery#1 3
+    100050: battery#1 4
+    100052: battery#1 5
+    100054: bumper bracket#1
+    100056: //RootNode
+    100058: Component#1
+    100060: Component#1 1
+    100062: Component#11
+    100064: Component#11 1
+    100066: Component#12
+    100068: Component#12 1
+    100070: Component#2
+    100072: Component#2 1
+    100074: Component#20
+    100076: Component#24
+    100078: Component#24 1
+    100080: Component#3
+    100082: Component#3 1
+    100084: Component#4
+    100086: Component#4 1
+    100088: Component#5
+    100090: Component#5 1
+    100092: Component#55
+    100094: Component#55 1
+    100096: Component#55 2
+    100098: Component#55 3
+    100100: Component#70
+    100102: Component#70 1
+    100104: Component#71
+    100106: Component#71 1
+    100108: Custom Electric Club Car#2
+    100110: differential
+    100112: floorboard#1
+    100114: floorboard#1 1
+    100116: Fort Miles Golf Cart
+    100118: frame bar#1
+    100120: frame bar#1 1
+    100122: front hub
+    100124: front hub 1
+    100126: front shock#2
+    100128: front shock#2 1
+    100130: front suspension half#1
+    100132: front suspension half#1 1
+    100134: Group 11
+    100136: Group 118
+    100138: Group 120
+    100140: Group 122
+    100142: Group 124
+    100144: Group 126
+    100146: Group 128
+    100148: Group 130
+    100150: Group 132
+    100152: Group 134
+    100154: Group 136
+    100156: Group 138
+    100158: Group 140
+    100160: Group 142
+    100162: Group 144
+    100164: Group 146
+    100166: Group 148
+    100168: Group 15
+    100170: Group 150
+    100172: Group 152
+    100174: Group 154
+    100176: Group 156
+    100178: Group 158
+    100180: Group 160
+    100182: Group 162
+    100184: Group 164
+    100186: Group 166
+    100188: Group 168
+    100190: Group 17
+    100192: Group 188
+    100194: Group 19
+    100196: Group 190
+    100198: Group 192
+    100200: Group 194
+    100202: Group 196
+    100204: Group 197
+    100206: Group 20
+    100208: Group 200
+    100210: Group 202
+    100212: Group 207
+    100214: Group 208
+    100216: Group 209
+    100218: Group 22
+    100220: Group 240
+    100222: Group 241
+    100224: Group 242
+    100226: Group 26
+    100228: Group 273
+    100230: Group 275
+    100232: Group 278
+    100234: Group 28
+    100236: Group 281
+    100238: Group 283
+    100240: Group 288
+    100242: Group 290
+    100244: Group 3
+    100246: Group 306
+    100248: Group 308
+    100250: Group 310
+    100252: Group 312
+    100254: Group 319
+    100256: Group 32
+    100258: Group 321
+    100260: Group 33
+    100262: Group 343
+    100264: Group 345
+    100266: Group 347
+    100268: Group 349
+    100270: Group 35
+    100272: Group 356
+    100274: Group 358
+    100276: Group 369
+    100278: Group 37
+    100280: Group 370
+    100282: Group 371
+    100284: Group 39
+    100286: Group 4
+    100288: Group 402
+    100290: Group 403
+    100292: Group 404
+    100294: Group 41
+    100296: Group 43
+    100298: Group 435
+    100300: Group 437
+    100302: Group 439
+    100304: Group 441
+    100306: Group 443
+    100308: Group 445
+    100310: Group 447
+    100312: Group 45
+    100314: Group 450
+    100316: Group 47
+    100318: Group 489
+    100320: Group 49
+    100322: Group 5
+    100324: Group 53
+    100326: Group 55
+    100328: Group 57
+    100330: Group 59
+    100332: Group 6
+    100334: Group 61
+    100336: Group 63
+    100338: Group 8
+    100340: Group 9
+    100342: Group#120
+    100344: Group#36
+    100346: Group#36 1
+    100348: Group#36 2
+    100350: Group#36 3
+    100352: Group#36 4
+    100354: Group#36 5
+    100356: Group#36 6
+    100358: Group#36 7
+    100360: Group#36 8
+    100362: Group#45
+    100364: Group#45 1
+    100366: Group#47
+    100368: Group#47 1
+    100370: Group#47 2
+    100372: 'Harbor Defenses #3'
+    100374: 'Harbor Defenses #3 1'
+    100376: hub half
+    100378: hub half 1
+    100380: hub half 2
+    100382: hub half 3
+    100384: hub half 4
+    100386: hub half 5
+    100388: hub half 6
+    100390: hub half 7
+    100392: hub spoke
+    100394: hub spoke 1
+    100396: hub spoke 10
+    100398: hub spoke 11
+    100400: hub spoke 12
+    100402: hub spoke 13
+    100404: hub spoke 14
+    100406: hub spoke 15
+    100408: hub spoke 16
+    100410: hub spoke 17
+    100412: hub spoke 18
+    100414: hub spoke 19
+    100416: hub spoke 2
+    100418: hub spoke 20
+    100420: hub spoke 21
+    100422: hub spoke 22
+    100424: hub spoke 23
+    100426: hub spoke 3
+    100428: hub spoke 4
+    100430: hub spoke 5
+    100432: hub spoke 6
+    100434: hub spoke 7
+    100436: hub spoke 8
+    100438: hub spoke 9
+    100440: leaf spring#1
+    100442: leaf spring#1 1
+    100444: lugnut
+    100446: lugnut 1
+    100448: lugnut 10
+    100450: lugnut 11
+    100452: lugnut 12
+    100454: lugnut 13
+    100456: lugnut 14
+    100458: lugnut 15
+    100460: lugnut 16
+    100462: lugnut 17
+    100464: lugnut 2
+    100466: lugnut 3
+    100468: lugnut 4
+    100470: lugnut 5
+    100472: lugnut 6
+    100474: lugnut 7
+    100476: lugnut 8
+    100478: lugnut 9
+    100480: motor
+    100482: motor terminal
+    100484: motor terminal 1
+    100486: motor terminal 2
+    100488: motor terminal 3
+    100490: seat cushion#4
+    100492: seat cushion#4 1
+    100494: seat cushion#4 2
+    100496: seat cushion#4 3
+    100498: seat cushion#5
+    100500: seat cushion#5 1
+    100502: seat cushion#5 2
+    100504: seat cushion#5 3
+    100506: steering wheel
+    100508: tie rod
+    100510: tie rod end
+    100512: tie rod end 1
+    100514: tire half
+    100516: tire half 1
+    100518: tire half 2
+    100520: tire half 3
+    100522: tire half 4
+    100524: tire half 5
+    100526: tire half 6
+    100528: tire half 7
+    100530: transaxle
+    100532: washer
+    100534: washer 1
+    100536: washer 10
+    100538: washer 11
+    100540: washer 12
+    100542: washer 13
+    100544: washer 2
+    100546: washer 3
+    100548: washer 4
+    100550: washer 5
+    100552: washer 6
+    100554: washer 7
+    100556: washer 8
+    100558: washer 9
+    100560: washer#2
+    100562: washer#2 1
+    100564: washer#2 2
+    100566: washer#2 3
+    100568: Wheel
+    100570: Wheel 1
+    100572: Wheel 2
+    100574: Wheel 3
+    400000: 1/2 bolt head
+    400002: 1/2 bolt head 1
+    400004: 1/2 bolt head 2
+    400006: 1/2 bolt head 3
+    400008: 1/2 bolt head 4
+    400010: 1/2 bolt head 5
+    400012: 1/2 bolt head 6
+    400014: 1/2 bolt head 7
+    400016: 1/2 bolt head 8
+    400018: 1/2 bolt head 9
+    400020: 1/2 bolt nut
+    400022: 1/2 bolt nut 1
+    400024: 1/2 bolt nut 2
+    400026: 1/2 bolt nut 3
+    400028: 1/2 bolt nut#1
+    400030: 1/2 bolt nut#1 1
+    400032: 1/2 bolt nut#1 2
+    400034: 1/2 bolt nut#1 3
+    400036: 'BAT 519         '
+    400038: battery tray#1
+    400040: battery tray#1 1
+    400042: battery#1
+    400044: battery#1 1
+    400046: battery#1 2
+    400048: battery#1 3
+    400050: battery#1 4
+    400052: battery#1 5
+    400054: bumper bracket#1
+    400056: //RootNode
+    400058: Component#1
+    400060: Component#1 1
+    400062: Component#11
+    400064: Component#11 1
+    400066: Component#12
+    400068: Component#12 1
+    400070: Component#2
+    400072: Component#2 1
+    400074: Component#20
+    400076: Component#24
+    400078: Component#24 1
+    400080: Component#3
+    400082: Component#3 1
+    400084: Component#4
+    400086: Component#4 1
+    400088: Component#5
+    400090: Component#5 1
+    400092: Component#55
+    400094: Component#55 1
+    400096: Component#55 2
+    400098: Component#55 3
+    400100: Component#70
+    400102: Component#70 1
+    400104: Component#71
+    400106: Component#71 1
+    400108: Custom Electric Club Car#2
+    400110: differential
+    400112: floorboard#1
+    400114: floorboard#1 1
+    400116: Fort Miles Golf Cart
+    400118: frame bar#1
+    400120: frame bar#1 1
+    400122: front hub
+    400124: front hub 1
+    400126: front shock#2
+    400128: front shock#2 1
+    400130: front suspension half#1
+    400132: front suspension half#1 1
+    400134: Group 11
+    400136: Group 118
+    400138: Group 120
+    400140: Group 122
+    400142: Group 124
+    400144: Group 126
+    400146: Group 128
+    400148: Group 130
+    400150: Group 132
+    400152: Group 134
+    400154: Group 136
+    400156: Group 138
+    400158: Group 140
+    400160: Group 142
+    400162: Group 144
+    400164: Group 146
+    400166: Group 148
+    400168: Group 15
+    400170: Group 150
+    400172: Group 152
+    400174: Group 154
+    400176: Group 156
+    400178: Group 158
+    400180: Group 160
+    400182: Group 162
+    400184: Group 164
+    400186: Group 166
+    400188: Group 168
+    400190: Group 17
+    400192: Group 188
+    400194: Group 19
+    400196: Group 190
+    400198: Group 192
+    400200: Group 194
+    400202: Group 196
+    400204: Group 197
+    400206: Group 20
+    400208: Group 200
+    400210: Group 202
+    400212: Group 207
+    400214: Group 208
+    400216: Group 209
+    400218: Group 22
+    400220: Group 240
+    400222: Group 241
+    400224: Group 242
+    400226: Group 26
+    400228: Group 273
+    400230: Group 275
+    400232: Group 278
+    400234: Group 28
+    400236: Group 281
+    400238: Group 283
+    400240: Group 288
+    400242: Group 290
+    400244: Group 3
+    400246: Group 306
+    400248: Group 308
+    400250: Group 310
+    400252: Group 312
+    400254: Group 319
+    400256: Group 32
+    400258: Group 321
+    400260: Group 33
+    400262: Group 343
+    400264: Group 345
+    400266: Group 347
+    400268: Group 349
+    400270: Group 35
+    400272: Group 356
+    400274: Group 358
+    400276: Group 369
+    400278: Group 37
+    400280: Group 370
+    400282: Group 371
+    400284: Group 39
+    400286: Group 4
+    400288: Group 402
+    400290: Group 403
+    400292: Group 404
+    400294: Group 41
+    400296: Group 43
+    400298: Group 435
+    400300: Group 437
+    400302: Group 439
+    400304: Group 441
+    400306: Group 443
+    400308: Group 445
+    400310: Group 447
+    400312: Group 45
+    400314: Group 450
+    400316: Group 47
+    400318: Group 489
+    400320: Group 49
+    400322: Group 5
+    400324: Group 53
+    400326: Group 55
+    400328: Group 57
+    400330: Group 59
+    400332: Group 6
+    400334: Group 61
+    400336: Group 63
+    400338: Group 8
+    400340: Group 9
+    400342: Group#120
+    400344: Group#36
+    400346: Group#36 1
+    400348: Group#36 2
+    400350: Group#36 3
+    400352: Group#36 4
+    400354: Group#36 5
+    400356: Group#36 6
+    400358: Group#36 7
+    400360: Group#36 8
+    400362: Group#45
+    400364: Group#45 1
+    400366: Group#47
+    400368: Group#47 1
+    400370: Group#47 2
+    400372: 'Harbor Defenses #3'
+    400374: 'Harbor Defenses #3 1'
+    400376: hub half
+    400378: hub half 1
+    400380: hub half 2
+    400382: hub half 3
+    400384: hub half 4
+    400386: hub half 5
+    400388: hub half 6
+    400390: hub half 7
+    400392: hub spoke
+    400394: hub spoke 1
+    400396: hub spoke 10
+    400398: hub spoke 11
+    400400: hub spoke 12
+    400402: hub spoke 13
+    400404: hub spoke 14
+    400406: hub spoke 15
+    400408: hub spoke 16
+    400410: hub spoke 17
+    400412: hub spoke 18
+    400414: hub spoke 19
+    400416: hub spoke 2
+    400418: hub spoke 20
+    400420: hub spoke 21
+    400422: hub spoke 22
+    400424: hub spoke 23
+    400426: hub spoke 3
+    400428: hub spoke 4
+    400430: hub spoke 5
+    400432: hub spoke 6
+    400434: hub spoke 7
+    400436: hub spoke 8
+    400438: hub spoke 9
+    400440: leaf spring#1
+    400442: leaf spring#1 1
+    400444: lugnut
+    400446: lugnut 1
+    400448: lugnut 10
+    400450: lugnut 11
+    400452: lugnut 12
+    400454: lugnut 13
+    400456: lugnut 14
+    400458: lugnut 15
+    400460: lugnut 16
+    400462: lugnut 17
+    400464: lugnut 2
+    400466: lugnut 3
+    400468: lugnut 4
+    400470: lugnut 5
+    400472: lugnut 6
+    400474: lugnut 7
+    400476: lugnut 8
+    400478: lugnut 9
+    400480: motor
+    400482: motor terminal
+    400484: motor terminal 1
+    400486: motor terminal 2
+    400488: motor terminal 3
+    400490: seat cushion#4
+    400492: seat cushion#4 1
+    400494: seat cushion#4 2
+    400496: seat cushion#4 3
+    400498: seat cushion#5
+    400500: seat cushion#5 1
+    400502: seat cushion#5 2
+    400504: seat cushion#5 3
+    400506: steering wheel
+    400508: tie rod
+    400510: tie rod end
+    400512: tie rod end 1
+    400514: tire half
+    400516: tire half 1
+    400518: tire half 2
+    400520: tire half 3
+    400522: tire half 4
+    400524: tire half 5
+    400526: tire half 6
+    400528: tire half 7
+    400530: transaxle
+    400532: washer
+    400534: washer 1
+    400536: washer 10
+    400538: washer 11
+    400540: washer 12
+    400542: washer 13
+    400544: washer 2
+    400546: washer 3
+    400548: washer 4
+    400550: washer 5
+    400552: washer 6
+    400554: washer 7
+    400556: washer 8
+    400558: washer 9
+    400560: washer#2
+    400562: washer#2 1
+    400564: washer#2 2
+    400566: washer#2 3
+    400568: Wheel
+    400570: Wheel 1
+    400572: Wheel 2
+    400574: Wheel 3
+    2100000: _defaultMat
+    2100002: '[Blacktop Old 02]'
+    2100004: Josh_Shirt_01
+    2100006: '[Stone Flagstone Ashlar]'
+    2100008: OD Green_
+    2100010: '[Color_007]'
+    2100012: '[Translucent_Glass_Gray]1'
+    2100014: '[Color_000]'
+    2100016: '[Formica Laminate Dark]'
+    2100018: '[0136_Charcoal]'
+    2100020: '[0131_Silver]'
+    2100022: '[0130_Gainsboro]'
+    2100024: '[0035_Tan]'
+    2100026: '[0104_MediumBlue]'
+    2100028: '[0049_Beige]'
+    2100030: Camel
+    2300000: 1/2 bolt head
+    2300002: 1/2 bolt head 1
+    2300004: 1/2 bolt head 2
+    2300006: 1/2 bolt head 3
+    2300008: 1/2 bolt head 4
+    2300010: 1/2 bolt head 5
+    2300012: 1/2 bolt head 6
+    2300014: 1/2 bolt head 7
+    2300016: 1/2 bolt head 8
+    2300018: 1/2 bolt head 9
+    2300020: 1/2 bolt nut
+    2300022: 1/2 bolt nut 1
+    2300024: 1/2 bolt nut 2
+    2300026: 1/2 bolt nut 3
+    2300028: 1/2 bolt nut#1
+    2300030: 1/2 bolt nut#1 1
+    2300032: 1/2 bolt nut#1 2
+    2300034: 1/2 bolt nut#1 3
+    2300036: 'BAT 519         '
+    2300038: battery tray#1
+    2300040: battery tray#1 1
+    2300042: battery#1
+    2300044: battery#1 1
+    2300046: battery#1 2
+    2300048: battery#1 3
+    2300050: battery#1 4
+    2300052: battery#1 5
+    2300054: //RootNode
+    2300056: Component#1
+    2300058: Component#1 1
+    2300060: Component#11
+    2300062: Component#11 1
+    2300064: Component#12
+    2300066: Component#12 1
+    2300068: Component#2
+    2300070: Component#2 1
+    2300072: Component#20
+    2300074: Component#24
+    2300076: Component#24 1
+    2300078: Component#3
+    2300080: Component#3 1
+    2300082: Component#4
+    2300084: Component#4 1
+    2300086: Component#5
+    2300088: Component#5 1
+    2300090: Component#55
+    2300092: Component#55 1
+    2300094: Component#55 2
+    2300096: Component#55 3
+    2300098: Component#70
+    2300100: Component#70 1
+    2300102: Component#71
+    2300104: Component#71 1
+    2300106: Custom Electric Club Car#2
+    2300108: frame bar#1
+    2300110: frame bar#1 1
+    2300112: front hub
+    2300114: front hub 1
+    2300116: Group 11
+    2300118: Group 118
+    2300120: Group 120
+    2300122: Group 122
+    2300124: Group 124
+    2300126: Group 126
+    2300128: Group 128
+    2300130: Group 130
+    2300132: Group 132
+    2300134: Group 134
+    2300136: Group 136
+    2300138: Group 138
+    2300140: Group 140
+    2300142: Group 142
+    2300144: Group 144
+    2300146: Group 146
+    2300148: Group 148
+    2300150: Group 15
+    2300152: Group 150
+    2300154: Group 152
+    2300156: Group 154
+    2300158: Group 156
+    2300160: Group 158
+    2300162: Group 160
+    2300164: Group 162
+    2300166: Group 164
+    2300168: Group 166
+    2300170: Group 168
+    2300172: Group 17
+    2300174: Group 188
+    2300176: Group 190
+    2300178: Group 192
+    2300180: Group 194
+    2300182: Group 197
+    2300184: Group 20
+    2300186: Group 200
+    2300188: Group 202
+    2300190: Group 209
+    2300192: Group 22
+    2300194: Group 242
+    2300196: Group 26
+    2300198: Group 273
+    2300200: Group 275
+    2300202: Group 278
+    2300204: Group 28
+    2300206: Group 281
+    2300208: Group 283
+    2300210: Group 288
+    2300212: Group 290
+    2300214: Group 306
+    2300216: Group 308
+    2300218: Group 310
+    2300220: Group 312
+    2300222: Group 319
+    2300224: Group 321
+    2300226: Group 33
+    2300228: Group 343
+    2300230: Group 345
+    2300232: Group 347
+    2300234: Group 349
+    2300236: Group 35
+    2300238: Group 356
+    2300240: Group 358
+    2300242: Group 37
+    2300244: Group 371
+    2300246: Group 39
+    2300248: Group 404
+    2300250: Group 41
+    2300252: Group 43
+    2300254: Group 435
+    2300256: Group 437
+    2300258: Group 439
+    2300260: Group 441
+    2300262: Group 443
+    2300264: Group 445
+    2300266: Group 447
+    2300268: Group 45
+    2300270: Group 450
+    2300272: Group 47
+    2300274: Group 489
+    2300276: Group 49
+    2300278: Group 53
+    2300280: Group 55
+    2300282: Group 59
+    2300284: Group 6
+    2300286: Group 61
+    2300288: Group 63
+    2300290: Group 9
+    2300292: Group#120
+    2300294: Group#36
+    2300296: Group#36 1
+    2300298: Group#36 2
+    2300300: Group#36 3
+    2300302: Group#36 4
+    2300304: Group#36 5
+    2300306: Group#36 6
+    2300308: Group#36 7
+    2300310: Group#36 8
+    2300312: Group#45
+    2300314: Group#45 1
+    2300316: Group#47
+    2300318: Group#47 1
+    2300320: Group#47 2
+    2300322: 'Harbor Defenses #3'
+    2300324: 'Harbor Defenses #3 1'
+    2300326: hub half
+    2300328: hub half 1
+    2300330: hub half 2
+    2300332: hub half 3
+    2300334: hub half 4
+    2300336: hub half 5
+    2300338: hub half 6
+    2300340: hub half 7
+    2300342: hub spoke
+    2300344: hub spoke 1
+    2300346: hub spoke 10
+    2300348: hub spoke 11
+    2300350: hub spoke 12
+    2300352: hub spoke 13
+    2300354: hub spoke 14
+    2300356: hub spoke 15
+    2300358: hub spoke 16
+    2300360: hub spoke 17
+    2300362: hub spoke 18
+    2300364: hub spoke 19
+    2300366: hub spoke 2
+    2300368: hub spoke 20
+    2300370: hub spoke 21
+    2300372: hub spoke 22
+    2300374: hub spoke 23
+    2300376: hub spoke 3
+    2300378: hub spoke 4
+    2300380: hub spoke 5
+    2300382: hub spoke 6
+    2300384: hub spoke 7
+    2300386: hub spoke 8
+    2300388: hub spoke 9
+    2300390: lugnut
+    2300392: lugnut 1
+    2300394: lugnut 10
+    2300396: lugnut 11
+    2300398: lugnut 12
+    2300400: lugnut 13
+    2300402: lugnut 14
+    2300404: lugnut 15
+    2300406: lugnut 16
+    2300408: lugnut 17
+    2300410: lugnut 2
+    2300412: lugnut 3
+    2300414: lugnut 4
+    2300416: lugnut 5
+    2300418: lugnut 6
+    2300420: lugnut 7
+    2300422: lugnut 8
+    2300424: lugnut 9
+    2300426: seat cushion#4
+    2300428: seat cushion#4 1
+    2300430: seat cushion#4 2
+    2300432: seat cushion#4 3
+    2300434: seat cushion#5
+    2300436: seat cushion#5 1
+    2300438: seat cushion#5 2
+    2300440: seat cushion#5 3
+    2300442: tire half
+    2300444: tire half 1
+    2300446: tire half 2
+    2300448: tire half 3
+    2300450: tire half 4
+    2300452: tire half 5
+    2300454: tire half 6
+    2300456: tire half 7
+    2300458: washer
+    2300460: washer 1
+    2300462: washer 10
+    2300464: washer 11
+    2300466: washer 12
+    2300468: washer 13
+    2300470: washer 2
+    2300472: washer 3
+    2300474: washer 4
+    2300476: washer 5
+    2300478: washer 6
+    2300480: washer 7
+    2300482: washer 8
+    2300484: washer 9
+    2300486: washer#2
+    2300488: washer#2 1
+    2300490: washer#2 2
+    2300492: washer#2 3
+    3300000: 1/2 bolt head
+    3300002: 1/2 bolt head 1
+    3300004: 1/2 bolt head 2
+    3300006: 1/2 bolt head 3
+    3300008: 1/2 bolt head 4
+    3300010: 1/2 bolt head 5
+    3300012: 1/2 bolt head 6
+    3300014: 1/2 bolt head 7
+    3300016: 1/2 bolt head 8
+    3300018: 1/2 bolt head 9
+    3300020: 1/2 bolt nut
+    3300022: 1/2 bolt nut 1
+    3300024: 1/2 bolt nut 2
+    3300026: 1/2 bolt nut 3
+    3300028: 1/2 bolt nut#1
+    3300030: 1/2 bolt nut#1 1
+    3300032: 1/2 bolt nut#1 2
+    3300034: 1/2 bolt nut#1 3
+    3300036: 'BAT 519         '
+    3300038: battery tray#1
+    3300040: battery tray#1 1
+    3300042: battery#1
+    3300044: battery#1 1
+    3300046: battery#1 2
+    3300048: battery#1 3
+    3300050: battery#1 4
+    3300052: battery#1 5
+    3300054: //RootNode
+    3300056: Component#1
+    3300058: Component#1 1
+    3300060: Component#11
+    3300062: Component#11 1
+    3300064: Component#12
+    3300066: Component#12 1
+    3300068: Component#2
+    3300070: Component#2 1
+    3300072: Component#20
+    3300074: Component#24
+    3300076: Component#24 1
+    3300078: Component#3
+    3300080: Component#3 1
+    3300082: Component#4
+    3300084: Component#4 1
+    3300086: Component#5
+    3300088: Component#5 1
+    3300090: Component#55
+    3300092: Component#55 1
+    3300094: Component#55 2
+    3300096: Component#55 3
+    3300098: Component#70
+    3300100: Component#70 1
+    3300102: Component#71
+    3300104: Component#71 1
+    3300106: Custom Electric Club Car#2
+    3300108: frame bar#1
+    3300110: frame bar#1 1
+    3300112: front hub
+    3300114: front hub 1
+    3300116: Group 11
+    3300118: Group 118
+    3300120: Group 120
+    3300122: Group 122
+    3300124: Group 124
+    3300126: Group 126
+    3300128: Group 128
+    3300130: Group 130
+    3300132: Group 132
+    3300134: Group 134
+    3300136: Group 136
+    3300138: Group 138
+    3300140: Group 140
+    3300142: Group 142
+    3300144: Group 144
+    3300146: Group 146
+    3300148: Group 148
+    3300150: Group 15
+    3300152: Group 150
+    3300154: Group 152
+    3300156: Group 154
+    3300158: Group 156
+    3300160: Group 158
+    3300162: Group 160
+    3300164: Group 162
+    3300166: Group 164
+    3300168: Group 166
+    3300170: Group 168
+    3300172: Group 17
+    3300174: Group 188
+    3300176: Group 190
+    3300178: Group 192
+    3300180: Group 194
+    3300182: Group 197
+    3300184: Group 20
+    3300186: Group 200
+    3300188: Group 202
+    3300190: Group 209
+    3300192: Group 22
+    3300194: Group 242
+    3300196: Group 26
+    3300198: Group 273
+    3300200: Group 275
+    3300202: Group 278
+    3300204: Group 28
+    3300206: Group 281
+    3300208: Group 283
+    3300210: Group 288
+    3300212: Group 290
+    3300214: Group 306
+    3300216: Group 308
+    3300218: Group 310
+    3300220: Group 312
+    3300222: Group 319
+    3300224: Group 321
+    3300226: Group 33
+    3300228: Group 343
+    3300230: Group 345
+    3300232: Group 347
+    3300234: Group 349
+    3300236: Group 35
+    3300238: Group 356
+    3300240: Group 358
+    3300242: Group 37
+    3300244: Group 371
+    3300246: Group 39
+    3300248: Group 404
+    3300250: Group 41
+    3300252: Group 43
+    3300254: Group 435
+    3300256: Group 437
+    3300258: Group 439
+    3300260: Group 441
+    3300262: Group 443
+    3300264: Group 445
+    3300266: Group 447
+    3300268: Group 45
+    3300270: Group 450
+    3300272: Group 47
+    3300274: Group 489
+    3300276: Group 49
+    3300278: Group 53
+    3300280: Group 55
+    3300282: Group 59
+    3300284: Group 6
+    3300286: Group 61
+    3300288: Group 63
+    3300290: Group 9
+    3300292: Group#120
+    3300294: Group#36
+    3300296: Group#36 1
+    3300298: Group#36 2
+    3300300: Group#36 3
+    3300302: Group#36 4
+    3300304: Group#36 5
+    3300306: Group#36 6
+    3300308: Group#36 7
+    3300310: Group#36 8
+    3300312: Group#45
+    3300314: Group#45 1
+    3300316: Group#47
+    3300318: Group#47 1
+    3300320: Group#47 2
+    3300322: 'Harbor Defenses #3'
+    3300324: 'Harbor Defenses #3 1'
+    3300326: hub half
+    3300328: hub half 1
+    3300330: hub half 2
+    3300332: hub half 3
+    3300334: hub half 4
+    3300336: hub half 5
+    3300338: hub half 6
+    3300340: hub half 7
+    3300342: hub spoke
+    3300344: hub spoke 1
+    3300346: hub spoke 10
+    3300348: hub spoke 11
+    3300350: hub spoke 12
+    3300352: hub spoke 13
+    3300354: hub spoke 14
+    3300356: hub spoke 15
+    3300358: hub spoke 16
+    3300360: hub spoke 17
+    3300362: hub spoke 18
+    3300364: hub spoke 19
+    3300366: hub spoke 2
+    3300368: hub spoke 20
+    3300370: hub spoke 21
+    3300372: hub spoke 22
+    3300374: hub spoke 23
+    3300376: hub spoke 3
+    3300378: hub spoke 4
+    3300380: hub spoke 5
+    3300382: hub spoke 6
+    3300384: hub spoke 7
+    3300386: hub spoke 8
+    3300388: hub spoke 9
+    3300390: lugnut
+    3300392: lugnut 1
+    3300394: lugnut 10
+    3300396: lugnut 11
+    3300398: lugnut 12
+    3300400: lugnut 13
+    3300402: lugnut 14
+    3300404: lugnut 15
+    3300406: lugnut 16
+    3300408: lugnut 17
+    3300410: lugnut 2
+    3300412: lugnut 3
+    3300414: lugnut 4
+    3300416: lugnut 5
+    3300418: lugnut 6
+    3300420: lugnut 7
+    3300422: lugnut 8
+    3300424: lugnut 9
+    3300426: seat cushion#4
+    3300428: seat cushion#4 1
+    3300430: seat cushion#4 2
+    3300432: seat cushion#4 3
+    3300434: seat cushion#5
+    3300436: seat cushion#5 1
+    3300438: seat cushion#5 2
+    3300440: seat cushion#5 3
+    3300442: tire half
+    3300444: tire half 1
+    3300446: tire half 2
+    3300448: tire half 3
+    3300450: tire half 4
+    3300452: tire half 5
+    3300454: tire half 6
+    3300456: tire half 7
+    3300458: washer
+    3300460: washer 1
+    3300462: washer 10
+    3300464: washer 11
+    3300466: washer 12
+    3300468: washer 13
+    3300470: washer 2
+    3300472: washer 3
+    3300474: washer 4
+    3300476: washer 5
+    3300478: washer 6
+    3300480: washer 7
+    3300482: washer 8
+    3300484: washer 9
+    3300486: washer#2
+    3300488: washer#2 1
+    3300490: washer#2 2
+    3300492: washer#2 3
+    4300000: Mesh Simple Template - Feet and Inches
+    4300002: Mesh Group 6
+    4300004: Mesh Group 9
+    4300006: Mesh Group 11
+    4300008: Mesh Component#20
+    4300010: Mesh Group 15
+    4300012: Mesh Group 20
+    4300014: Mesh Group 22
+    4300016: Mesh Component#24
+    4300018: Mesh Group 26
+    4300020: Mesh Group 33
+    4300022: Mesh Group 35
+    4300024: Mesh Group 41
+    4300026: Mesh Group 43
+    4300028: Mesh Group 45
+    4300030: Mesh Group 47
+    4300032: Mesh Custom Electric Club Car#2
+    4300034: Mesh Group 53
+    4300036: Mesh Group 55
+    4300038: Mesh Group 59
+    4300040: Mesh Group 61
+    4300042: Mesh Group 63
+    4300044: Mesh 1/2 bolt head
+    4300046: Mesh 1/2 bolt nut#1
+    4300048: Mesh washer#2
+    4300050: Mesh washer
+    4300052: Mesh 1/2 bolt head
+    4300054: Mesh Group 118
+    4300056: Mesh Group 120
+    4300058: Mesh Group 122
+    4300060: Mesh Group 146
+    4300062: Mesh Group#36
+    4300064: Mesh Group 188
+    4300066: Mesh Group 190
+    4300068: Mesh Group 192
+    4300070: Mesh Group 194
+    4300072: Mesh Group 197
+    4300074: Mesh Group 200
+    4300076: Mesh Group 202
+    4300078: Mesh Group#120
+    4300080: Mesh Group 209
+    4300082: Mesh hub spoke
+    4300084: Mesh lugnut
+    4300086: Mesh hub half
+    4300088: Mesh tire half
+    4300090: Mesh Group 273
+    4300092: Mesh Group 275
+    4300094: Mesh Group 278
+    4300096: Mesh Group 281
+    4300098: Mesh Group 283
+    4300100: Mesh 1/2 bolt nut
+    4300102: Mesh front hub
+    4300104: Mesh Component#3
+    4300106: Mesh Component#1
+    4300108: Mesh Component#4
+    4300110: Mesh Component#2
+    4300112: Mesh Group 306
+    4300114: Mesh Group 308
+    4300116: Mesh Group 310
+    4300118: Mesh Group 312
+    4300120: Mesh Group 319
+    4300122: Mesh Group 321
+    4300124: Mesh Group 435
+    4300126: Mesh Group 439
+    4300128: Mesh Group 441
+    4300130: Mesh Group 450
+    4300132: Mesh Component#11
+    4300134: Mesh Component#5
+    4300136: Mesh Component#12
+    4300138: Mesh frame bar#1
+    4300140: Mesh Group#45
+    4300142: Mesh battery tray#1
+    4300144: Mesh battery#1
+    4300146: Mesh battery tray#1
+    4300148: Mesh Group#47
+    4300150: Mesh Component#70
+    4300152: Mesh Component#71
+    4300154: Mesh seat cushion#5
+    4300156: Mesh seat cushion#5
+    4300158: Mesh Component#55
+    4300160: Mesh seat cushion#4
+    4300162: Mesh Component#71
+    4300164: Mesh Component#55
+    4300166: 'Mesh Harbor Defenses #3'
+    4300168: 'Mesh BAT 519         '
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

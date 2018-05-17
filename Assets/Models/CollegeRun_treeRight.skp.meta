@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 9363a531b1e37534e8dda830e8d1e052
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1fc2730df8f12e458705321cdfe88001
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 10.2626295, y: 9.211566, z: -23.136923}
+      lookAt: {x: 9.389237, y: 5.579966, z: -9.741649}
+      up: {x: -0.016991176, y: 0.9652987, z: 0.26059487}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: '"3D tree" without white borders'
+    100002: boomkroon
+    100004: //RootNode
+    100006: Group 5
+    100008: Group 7
+    100010: Group 9
+    100012: Tree#1
+    400000: '"3D tree" without white borders'
+    400002: boomkroon
+    400004: //RootNode
+    400006: Group 5
+    400008: Group 7
+    400010: Group 9
+    400012: Tree#1
+    2100000: _defaultMat
+    2100002: '[Blacktop Old 02]'
+    2100004: Josh_Shirt_01
+    2100006: '[Stone Flagstone Ashlar]'
+    2100008: stam-smal
+    2100010: bladeren
+    2300000: boomkroon
+    2300002: //RootNode
+    2300004: Group 5
+    2300006: Group 7
+    2300008: Group 9
+    2300010: Tree#1
+    3300000: boomkroon
+    3300002: //RootNode
+    3300004: Group 5
+    3300006: Group 7
+    3300008: Group 9
+    3300010: Tree#1
+    4300000: Mesh Simple Template - Feet and Inches
+    4300002: Mesh Tree#1
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 9
+    4300010: Mesh boomkroon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
