@@ -10,9 +10,7 @@ public class CameraMotor : MonoBehaviour {
 
     private float transition = 0.0f;
     private float animationDuration = 3.0f;
-    private Vector3 animationOffset = new Vector3(0, 300, 1500);
     private Vector3 startRun = new Vector3(0, 269, -800);
-    private Vector3 currentAngle;
     private Vector3 startingVector;
     private Vector3 faceOffset = new Vector3(0, 150, 0);
     private Vector3 center;
@@ -24,7 +22,6 @@ public class CameraMotor : MonoBehaviour {
         lookAt = GameObject.FindGameObjectWithTag("Player").transform;
         center = lookAt.position + faceOffset;
         startOffset = startRun - lookAt.position;
-        currentAngle = transform.eulerAngles;
         startingVector = transform.position;
 	}
 	
@@ -46,12 +43,6 @@ public class CameraMotor : MonoBehaviour {
         {
             // Animation at the start of the game
             transform.position = Vector3.Lerp(startingVector, startRun, transition);
-
-
-            //transform.eulerAngles = new Vector3(
-                //Mathf.LerpAngle(currentAngle.x, currentAngle.x, transition),
-                //Mathf.LerpAngle(currentAngle.y, 0, transition),
-                //Mathf.LerpAngle(currentAngle.z, currentAngle.z, transition));
 
             transition += (Time.deltaTime / animationDuration) / 3;
 
