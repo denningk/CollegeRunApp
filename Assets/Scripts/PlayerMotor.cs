@@ -12,7 +12,7 @@ public class PlayerMotor : MonoBehaviour
     private float verticalVelocity = 0.0f;
     private float gravity = 750.0f;
 
-    private float animationDuration = 9.5f;
+    private float animationDuration = 6f;
 
     // Use this for initialization
     void Start()

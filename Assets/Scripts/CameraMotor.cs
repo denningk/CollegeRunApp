@@ -9,15 +9,17 @@ public class CameraMotor : MonoBehaviour {
     private Vector3 moveVector;
 
     private float transition = 0.0f;
-    private float animationDuration = 1.0f;
+    private float animationDuration = 3.0f;
     private Vector3 animationOffset = new Vector3(0, 300, 1500);
     private Vector3 startRun = new Vector3(0, 269, -1071);
+    private Vector3 currentAngle;
     // private Vector3 beginningAnimation = T
 
 	// Use this for initialization
 	void Start () {
         lookAt = GameObject.FindGameObjectWithTag("Player").transform;
-        startOffset = transform.position - lookAt.position;
+        startOffset = startRun - lookAt.position;
+        currentAngle = transform.eulerAngles;
 	}
 	
 	// Update is called once per frame
@@ -30,19 +32,24 @@ public class CameraMotor : MonoBehaviour {
         // Y
         moveVector.y = Mathf.Clamp(moveVector.y, 200, 400);
 
-        if (Time.timeSinceLevelLoad > (animationDuration * 2))
+
+        if (transition > 2.0f)
         {
             transform.position = moveVector;
-        } else if (Time.timeSinceLevelLoad > animationDuration)
-        {
-            transform.position = Vector3.Lerp(startRun, moveVector, transition);
-            transition += Time.deltaTime / animationDuration;
         } else
         {
             // Animation at the start of the game
             transform.position = Vector3.Lerp(moveVector + animationOffset, moveVector, transition);
-            transition += Time.deltaTime / animationDuration;
-            // transform.LookAt(lookAt.position - (Vector3.up * 5));
+
+
+            transform.eulerAngles = new Vector3(
+                Mathf.LerpAngle(currentAngle.x, currentAngle.x, transition),
+                Mathf.LerpAngle(currentAngle.y, 0, transition),
+                Mathf.LerpAngle(currentAngle.z, currentAngle.z, transition));
+
+            transition += (Time.deltaTime / animationDuration) / 4;
+
+            transform.LookAt(lookAt.position);
         }
 
 
