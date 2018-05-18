@@ -26130,7 +26130,7 @@ GameObject:
   - component: {fileID: 65221876806990498}
   m_Layer: 0
   m_Name: Bike
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108015,5 +108015,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 68.16354, y: 84.02357, z: 107.35196}
-  m_Center: {x: 19.912865, y: 65.900055, z: 53.17599}
+  m_Size: {x: 66.86997, y: 96.297615, z: 107.35196}
+  m_Center: {x: 19.266083, y: 59.76303, z: 53.17599}

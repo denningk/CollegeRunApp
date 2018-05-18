@@ -24374,7 +24374,7 @@ GameObject:
   - component: {fileID: 65684017149621538}
   m_Layer: 0
   m_Name: Bike
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41961,7 +41961,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1145280275407636}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 54.16879, y: 24.578266, z: 0}
+  m_LocalPosition: {x: 56.4, y: 78.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4025241879398862}
@@ -108015,5 +108015,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 68.16354, y: 84.02357, z: 107.35196}
-  m_Center: {x: 19.912865, y: 65.900055, z: 53.17599}
+  m_Size: {x: 68.16354, y: 89.24775, z: 107.35196}
+  m_Center: {x: 19.912865, y: 68.512146, z: 53.17599}

@@ -14,6 +14,8 @@ public class PlayerMotor : MonoBehaviour
 
     private float animationDuration = 8.8f;
 
+    private bool isDead = false;
+
     // Use this for initialization
     void Start()
     {
@@ -25,6 +27,9 @@ public class PlayerMotor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (isDead)
+            return;
+
         if (Time.timeSinceLevelLoad >= animationDuration)
         {
             anim.Play("Running");
@@ -41,6 +46,7 @@ public class PlayerMotor : MonoBehaviour
             }
 
             // X - Left and Right
+            // moveVector.x = Input.acceleration.x * speed;
             moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
 
             // Y - Up and Down
@@ -56,5 +62,19 @@ public class PlayerMotor : MonoBehaviour
     public void SetSpeed(float modifier)
     {
         speed = 500.0f + (100.0f * modifier) ;
+    }
+
+    // It is being called every time our capsule hits something
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+        if (hit.gameObject.tag == "Enemy")
+            Death();
+    }
+
+    private void Death()
+    {
+        Debug.Log("Dead");
+        isDead = true;
+        GetComponent<Score>().OnDeath();
     }
 }
