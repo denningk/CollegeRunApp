@@ -15,6 +15,7 @@ public class PlayerMotor : MonoBehaviour
     private float animationDuration = 8.8f;
 
     private bool isDead = false;
+    public AudioManager audioManager;
 
     // Use this for initialization
     void Start()
@@ -46,8 +47,8 @@ public class PlayerMotor : MonoBehaviour
             }
 
             // X - Left and Right
-            // moveVector.x = Input.acceleration.x * speed;
-            moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
+            moveVector.x = Input.acceleration.x * speed;
+            // moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
 
             // Y - Up and Down
             moveVector.y = verticalVelocity;
