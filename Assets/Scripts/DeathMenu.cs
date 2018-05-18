@@ -8,6 +8,7 @@ public class DeathMenu : MonoBehaviour {
 
     public Text scoreText;
     public Image backgroundImg;
+    public Text hiScoreText;
 
     private bool isShown = false;
 
@@ -31,6 +32,7 @@ public class DeathMenu : MonoBehaviour {
     {
         gameObject.SetActive(true);
         scoreText.text = ((int) score).ToString();
+        hiScoreText.text = "BEST: " + ((int)PlayerPrefs.GetFloat("Highscore")).ToString();
         isShown = true;
     }
 
